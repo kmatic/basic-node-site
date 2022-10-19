@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kmatic/basic-node-site#readme",
   "dependencies": {
-    "axios": "^1.1.3"
+    "axios": "^1.1.3",
+    "express": "^4.18.2"
   }
 }
